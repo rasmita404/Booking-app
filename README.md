@@ -1,2 +1,2 @@
-## Booking-app
-# MERN stack web app
+# Booking-app
+## MERN stack web app
